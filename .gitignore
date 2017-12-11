@@ -25,4 +25,5 @@ nbdist/
 .nb-gradle/
 
 ### angular generated ####
+/app-ui/node_modules/
 src/main/resources/static/*.*
